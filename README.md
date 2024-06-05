@@ -15,6 +15,8 @@ This project is a simple demonstration of a personal profile web page. It showca
 
 - HTML5
 - CSS3
+- Java Script
+- Bootsrap
   
 
 Contributing
